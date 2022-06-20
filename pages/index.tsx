@@ -66,7 +66,7 @@ const Home: NextPage = () => {
       </Box>
       <Box id="Description" sx={{ paddingLeft: { sm: '10px', md: '100px' }, paddingRight: { sm: '10px', md: '100px' } }} style={{ textAlign: 'center', backgroundColor: '#FF5335', width: '80%', margin: '0 auto', borderRadius: '10px' }}>
         <Typography style={{ fontSize: '18px', color: 'white', marginTop: '15px', padding: '15px' }}>
-          Trying to make a decision but you can't make up your mind? Look no further! Enter however many options you have, seperated by a comma, and Decider will pick one for you!
+          Trying to make a decision but you can&apos;t make up your mind? Look no further! Enter however many options you have, seperated by a comma, and Decider will pick one for you!
         </Typography>
       </Box>
       <br />
