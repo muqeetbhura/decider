@@ -71,12 +71,12 @@ const Home: NextPage = () => {
       </Box>
       <br />
       <br />
-      <Box id="Values" sx={{ paddingLeft: { sm: '10px', md: '100px' }, paddingRight: { sm: '10px', md: '100px' } }} style={{ textAlign: 'center', backgroundColor: '#FF5335', width: '80%', margin: '0 auto', borderRadius: '10px' }}>
+      <Box id="Prompt" sx={{ paddingLeft: { sm: '10px', md: '100px' }, paddingRight: { sm: '10px', md: '100px' } }} style={{ textAlign: 'center', backgroundColor: '#FF5335', width: '80%', margin: '0 auto', borderRadius: '10px' }}>
         <br />
         <br />
         <TextField
           id="outlined-multiline-static"
-          label="Values"
+          label="Prompt"
           multiline
           variant="outlined"
           value={value}
